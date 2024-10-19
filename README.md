@@ -1,5 +1,5 @@
 # 押しのアルゴリズム 我推的算法
-![alt text](image.png)
+![alt text](/hateLeetCode.png)
 
 * 搜索与回溯算法
     + [LCR 149. 彩灯装饰记录 I](/搜索与回溯算法/LCR%20149.%20彩灯装饰记录%20I.md)
