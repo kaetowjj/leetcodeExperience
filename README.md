@@ -1,2 +1,5 @@
-# leetcodeExperience
-summary of my experience
+# 押しのアルゴリズム 我推的算法
+![alt text](image.png)
+
+- 模拟
+[LCR 148. 验证图书取出顺序](/模拟/LCR%20148.%20验证图书取出顺序.md)
